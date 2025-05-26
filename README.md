@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Hugo Rodrigues**, an engineering student at **CPE Lyon** passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
+Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
 
 Currently in the final stages of my studies, I enjoy building strong foundations in **software development**, **AI**, and many other fields — I'm excited about what comes next.
 
