@@ -76,3 +76,9 @@ Also love **basketball**, **volleyball**, and practically any sport, whether tea
 Interested in chatting tech, internships, or anything in between?
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hugo-rdg/)
+
+---
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugo-Rodrigues-Dev&show_icons=true&theme=dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Rodrigues-Dev&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
