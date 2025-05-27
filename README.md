@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
+Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, currently working as a **fullstack developer apprentice at Orange**. 
+I'm passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
 
 Currently in the final stages of my studies, I enjoy building strong foundations in **software development**, **AI**, and many other fields — I'm excited about what comes next.
 
@@ -27,7 +28,7 @@ I'm currently preparing for a **2–3 month internship abroad in summer 2026**.
 
 ### 🎓 CPE Lyon (2024–2027)  
 Engineering degree in Computer Science and Network Communication  
-> Focus on **artificial intelligence**, **mathematics**, **advanced algorithms**, **software engineering**, **systems design**, **cyber security**, **cloud** and other.
+> Focus on **artificial intelligence**, **mathematics**, **advanced algorithms**, **frontend & backend development**, **software engineering**, **systems design**, **cyber security**, **cloud** and other.
 
 ### 🎓 BUT Informatique – IUT Dijon (2021–2024)  
 Bachelor in Computer Science (fullstack development track)  
