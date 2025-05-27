@@ -77,6 +77,8 @@ Interested in chatting tech, internships, or anything in between?
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hugo-rdg/)
 
+🔗 [GitHub CV](https://gist.github.com/Hugo-Rodrigues-Dev/75c83f063e42bc4bcf2bea51aff95ebf)
+
 ---
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugo-Rodrigues-Dev&show_icons=true&theme=dark&hide_border=true)
