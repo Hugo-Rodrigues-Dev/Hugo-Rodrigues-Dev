@@ -40,7 +40,7 @@ Bachelor in Computer Science (fullstack development track)
 ## 💼 Apprenticeships
 
 ### 🏢 Orange (2024–2027)  
-*Software Development Apprentice*  
+*Software Engineer Apprentice*  
 - Designed and developed a new REST API
 - Integrated external partner services
 - Automated data enrichment and error handling
@@ -48,7 +48,7 @@ Bachelor in Computer Science (fullstack development track)
 - Followed agile practices
 
 ### 🏢 Kardham Digital (2023–2024)  
-*Junior Developer (IoT & Facility Management)*  
+*Junior Developer Apprentice (IoT & Facility Management)*  
 - Added new features to existing smart building apps
 - Fixed bugs and ensured application maintenance
 - Built dashboards using Blazor and Enedis APIs
