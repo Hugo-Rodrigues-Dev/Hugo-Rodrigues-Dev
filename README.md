@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, currently working as a **fullstack developer apprentice at Orange**. 
+Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, currently working as a **Software Engineer Apprentice at Orange**. 
 
 I'm passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
 
@@ -16,12 +16,12 @@ I'm currently preparing for a **2–3 month internship abroad in summer 2026**.
 
 ## 🧠 Tech Stack & Interests
 
-- **Languages**: Java, C#, C, Python, JavaScript  
+- **Languages**: Java, Python, C#, C, JavaScript
 - **Databases**: SQL, PostgreSQL, MongoDB  
 - **AI & Data Science**: Machine learning basics, classification models, model evaluation  
 - **Web Dev**: Fullstack experience in previous training (HTML/CSS/JS + backend)
 - **Modeling**: MCD, MLD, MPD, normalization, relational algebra  
-- **Other Areas**: Software architecture, cryptography, finance, legal & ethical aspects of tech, project management
+- **Other Areas**: Software architecture, DevOps, Algorithms, cryptography, finance, legal & ethical aspects of tech, project management
 
 ---
 
@@ -29,7 +29,7 @@ I'm currently preparing for a **2–3 month internship abroad in summer 2026**.
 
 ### 🎓 CPE Lyon (2024–2027)  
 Engineering degree in Computer Science and Network Communication  
-> Focus on **artificial intelligence**, **mathematics**, **advanced algorithms**, **frontend & backend development**, **software engineering**, **systems design**, **cyber security**, **cloud** and other.
+> Focus on **artificial intelligence**, **mathematics**, **advanced algorithms**, **frontend & backend development**, **software engineering**, **systems design**,  **dev ops**, **cyber security**, **cloud** and other.
 
 ### 🎓 BUT Informatique – IUT Dijon (2021–2024)  
 Bachelor in Computer Science (fullstack development track)  
@@ -66,9 +66,12 @@ Stay tuned 👀
 
 ## 🏐 Hobbies & Passions
 
-Outside the world of code, I'm deeply passionate about **sports** — especially **handball**, which I’ve played for over a decade in club.  
-Also love **basketball**, **volleyball**, and practically any sport, whether team-based or individual.
+- Outside the world of code, I'm deeply passionate about **sports** — especially **handball**, which I’ve played for over a decade in club and also **coached**.  
+- I also enjoy **basketball**, **volleyball**, and many other **team** or **individual sports**.  
 
+- Beyond sports, I love **building personal projects in software development**, exploring **personal finance** and **wealth management strategies**, and keeping up daily with **major tech companies** and **innovations**.  
+
+- I’m also passionate about **traveling**, discovering **new places** and **cultures**.
 ---
 
 ## 🤝 Let’s Connect
