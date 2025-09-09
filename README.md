@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Hugo Rodrigues**, an Engineering student at **CPE Lyon**, currently working as a **Software Engineer Apprentice at Orange**. 
+Hi! I'm **Hugo Rodrigues**, an Engineer student at **CPE Lyon**, currently working as a **Software Engineer Apprentice at Orange**. 
 
 I'm passionate about **emerging technologies**, especially in **Artificial Intelligence**, **robotics**, **web development**, and everything related to **finance**, **stock markets**, and **tech-driven companies**.
 
@@ -28,7 +28,7 @@ I'm currently preparing for a **2–3 month internship abroad in summer 2026**.
 ## 🎓 Education
 
 ### 🎓 CPE Lyon (2024–2027)  
-Engineering degree in Computer Science and Network Communication  
+Engineer degree in Computer Science and Network Communication  
 > Focus on **artificial intelligence**, **mathematics**, **advanced algorithms**, **frontend & backend development**, **software engineering**, **systems design**,  **dev ops**, **cyber security**, **cloud** and other.
 
 ### 🎓 BUT Informatique – IUT Dijon (2021–2024)  
@@ -40,7 +40,7 @@ Bachelor in Computer Science (fullstack development track)
 ## 💼 Apprenticeships
 
 ### 🏢 Orange (2024–2027)  
-*Software Engineer Apprentice*  
+*Engineer Software Developer Apprentice*  
 - Designed and developed a new REST API
 - Integrated external partner services
 - Automated data enrichment and error handling
