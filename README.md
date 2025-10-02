@@ -19,7 +19,7 @@ I'm currently preparing for a **2–3 month internship abroad in summer 2026**.
 - **Languages**: Java, Python, C#, C, JavaScript
 - **Databases**: SQL, PostgreSQL, MongoDB  
 - **AI & Data Science**: Machine learning basics, classification models, model evaluation  
-- **Web Dev**: Fullstack experience in previous training (HTML/CSS/JS + backend)
+- **Web Dev**: Fullstack experience in previous training
 - **Modeling**: MCD, MLD, MPD, normalization, relational algebra  
 - **Other Areas**: Software architecture, DevOps, Algorithms, cryptography, finance, legal & ethical aspects of tech, project management
 
@@ -45,11 +45,12 @@ Bachelor in Computer Science (fullstack development track)
 - Integrated external partner services
 - Automated data enrichment and error handling
 - Wrote unit and integration tests (JUnit, Mockito, Castle Mock)
+- Updating CI/CD pipelines
 - Followed agile practices
 
 ### 🏢 Kardham Digital (2023–2024)  
-*Junior Developer Apprentice (IoT & Facility Management)*  
-- Added new features to existing smart building apps
+*Junior Developer Apprentice*  
+- Added new features to existing apps
 - Fixed bugs and ensured application maintenance
 - Built dashboards using Blazor and Enedis APIs
 
@@ -66,7 +67,7 @@ Stay tuned 👀
 
 ## 🏐 Hobbies & Passions
 
-- Outside the world of code, I'm deeply passionate about **sports** — especially **handball**, which I’ve played for over a decade in club and also **coached**.  
+- Outside the world of code, I'm deeply passionate about **sports** — especially **handball**, which I’ve played for over fifteen years and have also **coached** and **refereed**.  
 - I also enjoy **basketball**, **volleyball**, and many other **team** or **individual sports**.  
 
 - Beyond sports, I love **building personal projects in software development**, exploring **personal finance** and **wealth management strategies**, and keeping up daily with **major tech companies** and **innovations**.  
